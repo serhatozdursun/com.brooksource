@@ -1,0 +1,55 @@
+[INFO ] 2022-09-15 19:48:51.591 Steps:28 - CHROME is lunched
+[INFO ] 2022-09-15 19:48:51.599 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 19:48:55.214 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 19:48:55.369 HomePage:34 - mose hover to FIND WORK menu
+[INFO ] 2022-09-15 19:48:58.847 HomePage:39 - Seeking Position is clicked
+[INFO ] 2022-09-15 19:48:58.977 JobSearchPage:39 - tester is searched
+[INFO ] 2022-09-15 19:48:59.684 JobSearchPage:53 - Magnifying Glass clicked
+[INFO ] 2022-09-15 19:48:59.736 JobSearchPage:64 - IT Performance Tester is stored
+[INFO ] 2022-09-15 19:49:00.895 JobSearchPage:58 - IT Performance Tester is clicked
+[INFO ] 2022-09-15 19:49:00.937 Steps:84 - the selected job is IT Performance Tester, the displayed is IT Performance Tester 
+[INFO ] 2022-09-15 22:37:34.812 Steps:28 - CHROME is lunched
+[INFO ] 2022-09-15 22:37:34.827 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 22:37:38.437 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 22:37:38.706 HomePage:34 - mose hover to FIND WORK menu
+[INFO ] 2022-09-15 22:38:14.322 Steps:28 - CHROME is lunched
+[INFO ] 2022-09-15 22:38:14.347 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 22:38:18.062 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 22:38:18.222 HomePage:34 - mose hover to FIND WORK menu
+[INFO ] 2022-09-15 22:38:21.294 HomePage:39 - Seeking Position is clicked
+[INFO ] 2022-09-15 22:38:21.400 JobSearchPage:39 - tester is searched
+[INFO ] 2022-09-15 22:38:22.454 JobSearchPage:53 - Magnifying Glass clicked
+[INFO ] 2022-09-15 22:38:22.542 JobSearchPage:64 - IT Performance Tester is stored
+[INFO ] 2022-09-15 22:38:24.077 JobSearchPage:58 - IT Performance Tester is clicked
+[INFO ] 2022-09-15 22:38:24.125 Steps:84 - the selected job is IT Performance Tester, the displayed is IT Performance Tester 
+[INFO ] 2022-09-15 22:39:03.458 Steps:28 - CHROME is lunched
+[INFO ] 2022-09-15 22:39:03.473 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 22:39:07.406 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 22:39:13.702 Steps:84 - the selected job is IT Performance Tester, the displayed is IT Performance Tester 
+[INFO ] 2022-09-15 23:30:31.263 Steps:28 - FIREFOX is lunched
+[INFO ] 2022-09-15 23:30:31.271 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 23:30:34.554 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 23:30:50.527 BasePage:15 - Test completed
+[INFO ] 2022-09-15 23:38:23.039 Steps:28 - FIREFOX is lunched
+[INFO ] 2022-09-15 23:38:23.044 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 23:38:28.014 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 23:39:03.809 Steps:28 - FIREFOX is lunched
+[INFO ] 2022-09-15 23:39:03.814 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 23:39:08.795 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 23:39:24.659 BasePage:15 - Test completed
+[INFO ] 2022-09-15 23:52:37.791 Steps:28 - CHROME is lunched
+[INFO ] 2022-09-15 23:52:37.799 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 23:52:42.045 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 23:52:56.364 BasePage:15 - Test completed
+[INFO ] 2022-09-15 23:54:27.577 Steps:28 - CHROME is lunched
+[INFO ] 2022-09-15 23:54:27.598 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 23:54:31.324 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 23:54:47.703 BasePage:15 - Test completed
+[INFO ] 2022-09-15 23:57:21.020 Steps:28 - CHROME is lunched
+[INFO ] 2022-09-15 23:57:21.026 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 23:57:24.363 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 23:57:29.583 BasePage:15 - Test completed
+[INFO ] 2022-09-15 23:57:51.117 Steps:28 - FIREFOX is lunched
+[INFO ] 2022-09-15 23:57:51.122 Configuration:44 - Properties read finished.
+[INFO ] 2022-09-15 23:57:55.673 Steps:33 - https://www.brooksource.com/ is loaded
+[INFO ] 2022-09-15 23:58:01.177 BasePage:15 - Test completed
